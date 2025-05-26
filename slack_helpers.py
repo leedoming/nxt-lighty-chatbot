@@ -1,9 +1,11 @@
 # slack_helpers.py
+"""
+Slack 메시지 처리 및 블록 관리 유틸리티
+"""
 import logging
-from typing import Dict, List, Optional, Any
 import json
+from typing import Dict, List, Optional, Any
 
-# 로거 설정
 logger = logging.getLogger()
 
 class SlackBlockManager:
