@@ -1,0 +1,8 @@
+{"id":"hp001","query":"교내 성적우수장학금을 받으려면 직전학기 기준학점과 평균평점이 어떻게 돼?","gold_mn":"498","gold_title":"교내장학금","required_fact_groups":[["12학점이상"],["평균평점 3.0이상"]],"benchmark_status":"coverage_probe_seed_not_final"}
+{"id":"hp002","query":"다문화가족장학금은 직전학기 성적 기준과 지급금액이 어떻게 돼?","gold_mn":"498","gold_title":"교내장학금","required_fact_groups":[["12학점이상"],["평균평점 2.5이상"],["등록금의 1/3"]],"benchmark_status":"coverage_probe_seed_not_final"}
+{"id":"hp003","query":"가족복지장학금은 가족 2명이 같은 학기에 재학하면 얼마를 받아?","gold_mn":"498","gold_title":"교내장학금","required_fact_groups":[["각각 매학기 30만원","각각 30만원"]],"benchmark_status":"coverage_probe_seed_not_final"}
+{"id":"hp004","query":"장애학생지원장학금에서 장애 1~3급 학생은 얼마를 받아?","gold_mn":"498","gold_title":"교내장학금","required_fact_groups":[["1~3급 : 100만원","1~3급: 100만원"]],"benchmark_status":"coverage_probe_seed_not_final"}
+{"id":"hp005","query":"국가근로장학금의 직전학기 성적과 소득분위 기준은 뭐야?","gold_mn":"498","gold_title":"교내장학금","required_fact_groups":[["백분위점수 70점이상"],["소득분위 9분위 이내"]],"benchmark_status":"coverage_probe_seed_not_final"}
+{"id":"hp006","query":"교직원복지장학금의 지급금액은 얼마야?","gold_mn":"498","gold_title":"교내장학금","required_fact_groups":[["등록금 전액"]],"benchmark_status":"coverage_probe_seed_not_final"}
+{"id":"hp007","query":"문화체육예술특별장학금에서 체육부 학생 선수의 직전학기 기준은 어떻게 돼?","gold_mn":"498","gold_title":"교내장학금","required_fact_groups":[["12학점"],["2.0이상"]],"benchmark_status":"coverage_probe_seed_not_final"}
+{"id":"hp008","query":"북한이탈주민지원장학금의 직전학기 성적 기준은 뭐야?","gold_mn":"498","gold_title":"교내장학금","required_fact_groups":[["백분위점수 70점이상"]],"benchmark_status":"coverage_probe_seed_not_final"}
