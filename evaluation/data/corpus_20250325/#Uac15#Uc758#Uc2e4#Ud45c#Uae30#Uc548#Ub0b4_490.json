@@ -1,0 +1,8 @@
+{
+  "title": "강의실표기안내",
+  "html_content": "<h3 class=\"h3_butt\">강의실표기안내</h3>\n\n<div class=\"classroom_box\">\n\t<p><span>행</span> 행정관</p>\n\t<p><span>성</span> 성실관</p>\n\t<p><span>극</span> 극기관</p>\n\t<p><span>탐</span> 탐진관</p>\n\t<p><span>호</span> 호심관</p>\n\t<p><span>인</span> 인성관</p>\n\t<p><span>전</span> 전산관</p>\n\t<p><span>예</span> 예술관</p>\n\t<p><span>체</span> 체육관</p>\n\t<p><span>식</span> 식품영양관</p>\n\t<p><span>백</span> 백인관</p>\n\t<p><span>도</span> 도서관</p>\n\t<p><span>학</span> 학생회관</p>\n</div>\n<p class=\"tip_type1\">강의실명 옆의 숫자는 호실번호입니다.</p>\n",
+  "sections": [],
+  "crawled_date": "20250325",
+  "url": "https://www.gwangju.ac.kr/page/?site=gwangju&mn=490",
+  "mn": 490
+}

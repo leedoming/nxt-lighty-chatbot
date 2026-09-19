@@ -1,0 +1,23 @@
+{
+  "title": "오버라이드",
+  "html_content": "<h3 class=\"h3_butt\">오버라이드</h3>\n<div class=\"download_top\">\n\t<h4>다운로드 <span class=\"title\">오른쪽의 버튼을 클릭해 관련 양식을 다운로드 받으실 수 있습니다.</span> </h4>\n\t<a href=\"/download?real_name=sugang_override.hwp&amp;file_name=오버라이드_신청서.hwp\" class=\"btn_download\" title=\"새창으로 다운로드\">오버라이드 신청서</a>\n</div>\n\n<h4 class=\"h4_butt\">오버라이드</h4>\n<ul class=\"ul_type1\">\n\t<li>교과목 담당교수가 수강정원의 20%까지 접수할 수 있습니다. (교과목에 따라 다를 수 있습니다.)</li>\n</ul>\n<h4 class=\"h4_butt\">신청시기</h4>\n<ul class=\"ul_type1\">\n\t<li>수강 정정 기간(개강 후 1주일 이내)에 실시합니다.</li>\n</ul>\n<h4 class=\"h4_butt\">신청절차</h4>\n<div class=\"request_process\">\n\t<ul>\n\t\t<li><span>1</span>홈페이지</li>\n\t\t<li><span>2</span>대학생활</li>\n\t\t<li><span>3</span>각종서식모음</li>\n\t\t<li><span>4</span>교무처</li>\n\t\t<li><span>5</span>신청서 작성</li>\n\t\t<li><span>6</span>교과목 담당교수에게 제출</li>\n\t</ul>\n</div>",
+  "sections": [
+    {
+      "title": "오버라이드",
+      "content": "교과목 담당교수가 수강정원의 20%까지 접수할 수 있습니다. (교과목에 따라 다를 수 있습니다.)"
+    },
+    {
+      "title": "신청시기",
+      "content": "수강 정정 기간(개강 후 1주일 이내)에 실시합니다."
+    },
+    {
+      "title": "신청절차",
+      "content": "1\n홈페이지\n2\n대학생활\n3\n각종서식모음\n4\n교무처\n5\n신청서 작성\n6\n교과목 담당교수에게 제출"
+    }
+  ],
+  "crawled_date": "20250325",
+  "url": "https://www.gwangju.ac.kr/page/?site=gwangju&mn=476",
+  "mn": 476,
+  "dep": "교무처",
+  "dep_tel": "062-670-2107, 전공: 강좌 담당 교수/교양: 교양 오버라이드 없음"
+}

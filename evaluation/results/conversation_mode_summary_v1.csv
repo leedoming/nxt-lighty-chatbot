@@ -1,0 +1,3 @@
+﻿conversation_mode,samples,followup_samples,context_fail_followups,reference_fail_followups,role_adherence_failures,visible_system_failures
+dm,9,4,2,2,1,0
+thread,20,2,0,0,1,3

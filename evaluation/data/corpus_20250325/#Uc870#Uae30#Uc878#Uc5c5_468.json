@@ -1,0 +1,31 @@
+{
+  "title": "조기졸업",
+  "html_content": "<h3 class=\"h3_butt\">조기졸업</h3>\n<div class=\"download_top\">\n\t<h4>다운로드 <span class=\"title\">오른쪽의 버튼을 클릭해 관련 양식을 다운로드 받으실 수 있습니다.</span> </h4>\n\t<a href=\"/download?real_name=doc_early_graduation_2023.hwp&amp;file_name=조기졸업원서.hwp\" class=\"btn_download\" title=\"새창으로 다운로드\">조기졸업신청서</a>\n</div>\n\n\n<h4 class=\"h4_butt\">신청기간(시기)</h4>\n<ul class=\"ul_type1\">\n\t<li>매년 5월, 11월에 신청하며, 자세한 일정은 학사안내 게시판을 확인하시기 바랍니다.</li>\n\t<p class=\"tip_type2\">소속학과의 전공필수 교과목(최종학기 포함)을 이수하지 못한 경우에 조기졸업 신청은 불가하며, 조기졸업 신청과 학위취득유예(졸업유예) 중복 신청은 불가함</p>\n\t<!--<p class=\"tip_type2\">조기졸업을 신청할 시, 학위취득유예(졸업유예)신청은 불가함</p>-->\n</ul>\n<h4 class=\"h4_butt\">신청방법</h4>\n<ul class=\"ul_type1\">\n\t<li>오프라인 신청</li>\n</ul>\n\n<h4 class=\"h4_butt\">신청대상</h4>\n<ul class=\"ul_type1\">\n\t<li>6학기 이상의 정규 등록을 마치고 졸업요건을 갖춘 자로서, 성적의 총 평점평균이 4.20(4.50점 만점)이상인 자</li>\n\t<li>재학 중 징계를 받은 사실이 없는 자<br>\n   ※ 조기졸업 신청서 제출 이후에 취득한 계절학기 성적은 조기졸업 자격요건에는 산정하지 않음<br>\n          ※ 조기졸업신청자중 학위를 취득하지 못하였을 경우 잔여학기를 등록 이수하여야 함     \n  </li>\n</ul>\n\n<h4 class=\"h4_butt\">신청절차</h4>\n<div class=\"request_process\">\n\t<ul>\n\t\t<li><span>1</span>조기졸업신청서 작성</li>\n\t\t<li><span>2</span>지도교수 상담 및 서명</li>\n\t\t<li><span>3</span>학부(과)장 서명</li>\n\t\t<li><span>4</span>조기졸업신청서 제출(수업학적팀)</li>\t\t\n\t</ul>\n</div>\n\n<h4 class=\"h4_butt\">제출서류</h4>\n<ul class=\"ul_type1\">\n\t<li>조기졸업신청서 1부</li>\n</ul>",
+  "sections": [
+    {
+      "title": "신청기간(시기)",
+      "content": "매년 5월, 11월에 신청하며, 자세한 일정은 학사안내 게시판을 확인하시기 바랍니다.\n소속학과의 전공필수 교과목(최종학기 포함)을 이수하지 못한 경우에 조기졸업 신청은 불가하며, 조기졸업 신청과 학위취득유예(졸업유예) 중복 신청은 불가함"
+    },
+    {
+      "title": "신청방법",
+      "content": "오프라인 신청"
+    },
+    {
+      "title": "신청대상",
+      "content": "6학기 이상의 정규 등록을 마치고 졸업요건을 갖춘 자로서, 성적의 총 평점평균이 4.20(4.50점 만점)이상인 자\n재학 중 징계를 받은 사실이 없는 자\n※ 조기졸업 신청서 제출 이후에 취득한 계절학기 성적은 조기졸업 자격요건에는 산정하지 않음\n※ 조기졸업신청자중 학위를 취득하지 못하였을 경우 잔여학기를 등록 이수하여야 함"
+    },
+    {
+      "title": "신청절차",
+      "content": "1\n조기졸업신청서 작성\n2\n지도교수 상담 및 서명\n3\n학부(과)장 서명\n4\n조기졸업신청서 제출(수업학적팀)"
+    },
+    {
+      "title": "제출서류",
+      "content": "조기졸업신청서 1부"
+    }
+  ],
+  "crawled_date": "20250325",
+  "url": "https://www.gwangju.ac.kr/page/?site=gwangju&mn=468",
+  "mn": 468,
+  "dep": "교무처",
+  "dep_tel": "062-670-2737, 2072"
+}
